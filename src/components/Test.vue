@@ -1,7 +1,7 @@
 <script setup>
 import { ref } from 'vue';
 import test from '@/lib/test';
-import '@/lib/graph2.ts'
+import '@/lib/graph2.js'
 // defineProps({
 //   msg: String,
 // })

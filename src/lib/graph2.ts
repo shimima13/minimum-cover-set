@@ -1,6 +1,6 @@
 import * as Immutable from 'immutable';
-import { v4 as uuidv4 } from 'uuid';
-import CryptoJS from 'crypto-js';
+// import { v4 as uuidv4 } from 'uuid';
+// import CryptoJS from 'crypto-js';
 
 type Dimension =
   | 'territory'

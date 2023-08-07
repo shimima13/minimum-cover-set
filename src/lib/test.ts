@@ -52,12 +52,12 @@ const nodeActionMap = {
       dimension: 'country',
       behavior: 'add',
     },
-    // {
-    //   node: 'country:IN',
-    //   value: 'IN',
-    //   dimension: 'country',
-    //   behavior: 'add',
-    // },
+    {
+      node: 'country:IN',
+      value: 'IN',
+      dimension: 'country',
+      behavior: 'add',
+    },
   ],
   3: [
     {
